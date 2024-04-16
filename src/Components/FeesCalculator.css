@@ -1,0 +1,19 @@
+@media only screen and (min-width: 200px) and (max-width: 567px) {
+    .containerBox {
+       width: 100%
+    }
+}
+
+@media only screen and (min-width: 568px) and (max-width: 992px) {
+    .containerBox {
+    width: 100%
+    }
+}
+
+.containerBox {
+    width: 500px;
+    
+    background-color: yellow;
+    margin: auto;
+    padding: 20px;
+}
